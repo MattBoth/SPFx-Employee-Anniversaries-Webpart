@@ -1,0 +1,39 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "employee-anniversaries-client-side-solution",
+    "id": "4c943de2-51d2-4a00-adee-bde62f216ba4",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.24.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "employee-anniversaries description"
+      },
+      "longDescription": {
+        "default": "employee-anniversaries description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "employee-anniversaries Feature",
+        "description": "The feature that activates elements of the employee-anniversaries solution.",
+        "id": "e9f541b5-c708-4a1d-bf5d-345deee18509",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/employee-anniversaries.sppkg"
+  }
+}

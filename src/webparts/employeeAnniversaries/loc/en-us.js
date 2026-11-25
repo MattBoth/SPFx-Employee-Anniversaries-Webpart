@@ -1,0 +1,31 @@
+define([], function() {
+  return {
+    "PropertyPaneDescription": "Show employee work anniversaries from a SharePoint list.",
+    "DataGroupName": "Data source",
+    "DisplayGroupName": "Display",
+    "TitleLabel": "Web part title",
+    "ListLabel": "Anniversary list",
+    "EmployeeFieldLabel": "Employee field (Person)",
+    "StartDateFieldLabel": "Start date field (Date)",
+    "DaysBeforeLabel": "Days before anniversary",
+    "DaysAfterLabel": "Days after anniversary",
+    "ShowPhotoLabel": "Show photo",
+    "ShowNameLabel": "Show name",
+    "ShowRoleLabel": "Show role",
+    "ShowDepartmentLabel": "Show department",
+    "ShowYearsLabel": "Show years of service",
+    "LoadingOptions": "Loading...",
+    "NotConfigured": "Select a list, an employee field and a start date field in the web part properties.",
+    "NoAnniversaries": "No anniversaries in this period.",
+    "Loading": "Loading anniversaries...",
+    "ErrorPrefix": "Unable to load anniversaries: ",
+    "Today": "Today",
+    "Tomorrow": "Tomorrow",
+    "Yesterday": "Yesterday",
+    "InDays": "In {0} days",
+    "DaysAgo": "{0} days ago",
+    "Year": "year",
+    "Years": "years",
+    "DefaultTitle": "Work anniversaries"
+  }
+});
