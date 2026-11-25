@@ -4,6 +4,12 @@ An SPFx web part that shows employees whose work anniversary falls within a conf
 
 ![version](https://img.shields.io/badge/version-1.24.1-green.svg)
 
+![Employee Anniversaries web part](docs/screenshot.png)
+
+## Download
+
+Grab the ready-to-install `employee-anniversaries.sppkg` from the [Releases page](../../releases/latest) and upload it to your SharePoint App Catalog. No build required.
+
 ## Features
 
 - Reads from any generic list on the current site
